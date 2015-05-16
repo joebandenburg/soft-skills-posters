@@ -20,6 +20,8 @@
    inkscape:export-filename="C:\Users\Bandenburg\drive-final.png"
    inkscape:export-xdpi="360"
    inkscape:export-ydpi="360">
+  <title
+     id="title4512">Drive</title>
   <defs
      id="defs4281">
     <linearGradient
@@ -341,11 +343,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71294709"
-     inkscape:cx="526.1811"
-     inkscape:cy="744.09449"
+     inkscape:zoom="1.0082594"
+     inkscape:cx="104.32087"
+     inkscape:cy="880.33656"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1178"
@@ -365,7 +367,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Drive</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Joe Bandenburg</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
