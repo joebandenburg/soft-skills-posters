@@ -238,16 +238,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#99d5e2"
+     pagecolor="#ffffff"
      bordercolor="#08f900"
      borderopacity="1"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.48509915"
      inkscape:cx="744.09448"
-     inkscape:cy="1217.2769"
+     inkscape:cy="1134.8196"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -285,12 +285,21 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     transform="translate(0,616.53551)" />
+     transform="translate(0,616.53552)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#99d5e2;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4450"
+       width="1488.189"
+       height="2104.7244"
+       x="0"
+       y="-616.53552" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layout"
-     transform="translate(0,616.53551)">
+     transform="translate(0,616.53552)">
     <path
        inkscape:connector-curvature="0"
        id="path28-1"
@@ -903,7 +912,8 @@
        inkscape:connector-curvature="0"
        id="path9538"
        style="fill:#eefbfc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 555.61707,1462.8568 c 0,0 0,-64.9012 -67.2806,-63.9191 0,0 -2.48036,-85.5748 -95.69424,-83.6999 -93.21388,1.8748 -111.32952,52.5536 -116.50376,73.794 0,0 -51.754,-123.219 -212.198012,-96.327 -160.44012,26.8881 -129.38694,137.2977 -129.38694,137.2977 0,0 -129.386938,29.1318 -43.990708,47.3989 85.396238,18.267 201.845648,0 201.845648,0 0,0 136.622332,65.3048 219.693482,26.2592 0,0 176.23453,26.6282 209.87288,-7.0878 0,0 126.80177,26.7834 147.50261,0 20.7047,-26.7833 -77.63295,-35.4744 -113.86036,-33.716" />
+       d="m 555.61707,1462.8568 c 0,0 0,-64.9012 -67.2806,-63.9191 0,0 -2.48036,-85.5748 -95.69424,-83.6999 -93.21388,1.8748 -111.32952,52.5536 -116.50376,73.794 0,0 -51.754,-123.219 -212.198012,-96.327 -160.44012,26.8881 -129.38694,137.2977 -129.38694,137.2977 0,0 -129.386938,29.1318 -43.990708,47.3989 85.396238,18.267 201.845648,0 201.845648,0 0,0 136.622332,65.3048 219.693482,26.2592 0,0 176.23453,26.6282 209.87288,-7.0878 0,0 126.80177,26.7834 147.50261,0 20.7047,-26.7833 -77.63295,-35.4744 -113.86036,-33.716"
+       clip-path="none" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9043"
